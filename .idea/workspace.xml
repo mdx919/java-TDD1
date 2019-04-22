@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6fdc2ed-c8a6-406f-ba83-af39f92ee0b9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/ConnectionPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-47">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClassTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/Connection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="29" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/AccessExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/ClassVars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/another/OutsideExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/Executor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/Connection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basic/Basic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cognizant/basic/BasicClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClassTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClass.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="281" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="937" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cognizant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cognizant" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-stuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BasicClass">
+    <configuration name="BasicClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.basic.BasicClass" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicClassTests.capEachWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cognizant.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.basic.BasicClassTests" />
+      <option name="METHOD_NAME" value="capEachWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicClassTests.multiplyBy2_positiveNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cognizant.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.basic.BasicClassTests" />
+      <option name="METHOD_NAME" value="multiplyBy2_positiveNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicClassTests.sayHelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cognizant.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.basic.BasicClassTests" />
+      <option name="METHOD_NAME" value="sayHelloTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicClassTests.sayHelloTestNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cognizant.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.basic.BasicClassTests" />
+      <option name="METHOD_NAME" value="sayHelloTestNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicClass" />
+        <item itemvalue="JUnit.BasicClassTests.sayHelloTestNull" />
+        <item itemvalue="JUnit.BasicClassTests.sayHelloTest" />
+        <item itemvalue="JUnit.BasicClassTests.capEachWord" />
+        <item itemvalue="JUnit.BasicClassTests.multiplyBy2_positiveNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fdc2ed-c8a6-406f-ba83-af39f92ee0b9" name="Default Changelist" comment="" />
+      <created>1555941314380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555941314380</updated>
+      <workItem from="1555941316395" duration="7114000" />
+      <workItem from="1555954965779" duration="3891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BasicClassTests_capEachWord - 2019.04.22 at 14h 32m 20s.xml">
+      <configuration name="BasicClassTests.capEachWord" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_capEachWord - 2019.04.22 at 14h 32m 30s.xml">
+      <configuration name="BasicClassTests.capEachWord" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTest - 2019.04.22 at 14h 42m 29s.xml">
+      <configuration name="BasicClassTests.sayHelloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTestNull - 2019.04.22 at 14h 42m 37s.xml">
+      <configuration name="BasicClassTests.sayHelloTestNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTestNull - 2019.04.22 at 14h 42m 52s.xml">
+      <configuration name="BasicClassTests.sayHelloTestNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTestNull - 2019.04.22 at 14h 43m 36s.xml">
+      <configuration name="BasicClassTests.sayHelloTestNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTest - 2019.04.22 at 14h 44m 00s.xml">
+      <configuration name="BasicClassTests.sayHelloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTestNull - 2019.04.22 at 14h 44m 11s.xml">
+      <configuration name="BasicClassTests.sayHelloTestNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTest - 2019.04.22 at 14h 46m 59s.xml">
+      <configuration name="BasicClassTests.sayHelloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicClassTests_sayHelloTestNull - 2019.04.22 at 14h 47m 01s.xml">
+      <configuration name="BasicClassTests.sayHelloTestNull" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="281" y="43" width="1400" height="937" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289941" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClass.java</url>
+          <line>16</line>
+          <properties class="com.cognizant.basic.BasicClass" method="capitalizeEachWord">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClassTests.java</url>
+          <line>30</line>
+          <properties class="com.cognizant.basic.BasicClassTests" method="sayHelloTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/AccessExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/another/OutsideExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/accessmodifiers/ClassVars.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basic/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cognizant/basic/BasicClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClassTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cognizant/basic/BasicClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
